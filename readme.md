@@ -2,7 +2,7 @@
 
 ## Spectrogram Testing
 
-<img src="cw_amen06_158_spectrogram_512x512.png">
+<img src="/cw_amen05_158_spectrogram_512x512.png">
 
 Some scripts testing out spectrograms at 512*512, which is the same size as the realtime image output from stream diffusion. 
 
