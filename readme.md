@@ -10,16 +10,12 @@ Overall, audio less than 10 seconds sounds very good. As you get towards 20 seco
 
 **Original Audio**
 
-<audio controls>
-  <source src="cw_amen05_158.wav" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+[cw_amen05_158.wav]('cw_amen05_158.wav')
 
 **Reconstructed Audio**
 
-<audio controls>
-  <source src="cw_amen05_158_reconstructed.wav" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+[cw_amen05_158_reconstructed.wav]('cw_amen05_158_reconstructed.wav')
+
+
 
 Anyway, we now have a tool to generate a dataset of 512x512 spectrograms from audio.
