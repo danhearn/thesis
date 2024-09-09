@@ -7,7 +7,7 @@
 ![chunk_10_seconds_spectrogram_512x512](https://github.com/user-attachments/assets/9c05fb1a-07e5-4e22-929f-99d881030dee)
 
 ## Stable Diffusion Fine Tune 
-A finetune test using the dreambooth method. Dataset is five 512x512 spectrograms of 10 audio chunks of the same song as above. Trained using diffusers acceleration with 400 iterations (only a few mins on 4090 if I remember correctly)
+A finetune test using the dreambooth method. Dataset is five 512x512 spectrograms of 10 second audio chunks of the same song as above. Trained using diffusers acceleration with 400 iterations (only a few mins on 4090 if I remember correctly)
 
 ![image_0](https://github.com/user-attachments/assets/d50f3abf-1ccc-49cb-95f5-97f8f87e3c77)
 
